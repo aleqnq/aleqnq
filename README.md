@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aleqnq
-- 👀 I’m interested in just about anything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in videogames, IT stuff and food
+- 🌱 I’m currently learning React
+- 📫 Reach me on IG @aleqnq, or Twitter at @aleqnq
 
 <!---
 aleqnq/aleqnq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
